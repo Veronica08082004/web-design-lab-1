@@ -1,0 +1,18 @@
+.alldiv {
+    padding: 50, 50, 50, 50;
+}
+h1 {
+    text-align: center;
+}
+
+body {
+    background-color:lightpink;
+}
+#button1 {
+    color: orangered;
+    background-color: lightsalmon; 
+}
+#button1:hover {
+    color: black;
+    background-color: lightcoral;
+}
